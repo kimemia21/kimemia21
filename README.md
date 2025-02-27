@@ -11,7 +11,7 @@ I'm a passionate **Flutter & Firebase Developer** with experience in **Django, F
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimemia21&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimemia21&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=kimemia21&theme=radical)
 
 ## 📈 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimemia21&theme=radical)
@@ -20,11 +20,11 @@ I'm a passionate **Flutter & Firebase Developer** with experience in **Django, F
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kimemia21&theme=radical)
 
 ## 🐍 Contribution Graph Snake
-![Snake animation](https://github.com/kimemia21/kimemia21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kimemia21/kimemia21/blob/main/github-contribution-grid-snake.svg)
 
 ## 💬 Connect with Me
 - 🐙 GitHub: [kimemia21](https://github.com/kimemia21)
-- 🔗 LinkedIn: [Your Profile](#) *(Add your LinkedIn URL here)*
+- 🔗 LinkedIn: [David Kimemia](https://www.linkedin.com/in/david-kimemia/) 
 - 📧 Email: thukukimemiadavid@gmail.com
 
 Let's connect and collaborate on cool projects! 🚀
